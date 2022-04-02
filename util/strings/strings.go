@@ -1,4 +1,4 @@
-package play
+package strings
 
 import "fmt"
 
